@@ -77,3 +77,40 @@
     
 
 }
+.pruductive-user-section{
+    width: 1140px;
+    height: 306px;
+    background-color: #E5E7FF;
+    margin: 0 auto;
+    margin-top: 116px;
+    border-radius: 20px;
+
+}
+.user-section-title{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    
+}
+.contend-title{
+    font-weight: bold;
+    font-size: 60px;
+    color: #4E47FF;
+}
+.productive-user-section-contend{
+    display: flex;
+    justify-content: center;
+    gap: 158px;
+    padding: 10px;
+    
+}
+.contend {
+    width: 180px;
+    height: 121px;
+    
+
+    
+}
+p{
+    color: #515264;
+}
