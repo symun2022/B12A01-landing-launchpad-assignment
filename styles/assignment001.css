@@ -37,6 +37,15 @@ body{
     background-color: #4E47FF;
     
 }
+.shared-btn-size-01{
+    width: 241px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #4E47FF;
+    
+}
 .logo{
     color: orange;
     font-size: 34px;
@@ -177,12 +186,36 @@ p{
     width: 669px;
     margin: 0 auto;
     text-align: center;
+    background-color: white;
 }
 .focus-img{
-    width: 721px;
-    height: 316px;
+    width: 667px;
+    height: 291px;;
     border-radius: 39px;
     margin-top: 34px;
     margin-right: 18px;
     
+}
+.form-container{
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+}
+.left-contend{
+    width: 528px;
+    height: 232px;
+}
+.right-contend{
+    width: 418px;
+    height: 490px;
+    margin-top: 123px;
+}
+.left-contend h3{
+    font-weight: bold;
+    font-size: 97px;
+}
+input[type=text]{
+    width: 232px;
 }
