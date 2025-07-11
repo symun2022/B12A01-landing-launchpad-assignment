@@ -172,3 +172,17 @@ p{
     
     margin-left: 12px;
 }
+.focus-section{ 
+    width: 1140px;
+    width: 669px;
+    margin: 0 auto;
+    text-align: center;
+}
+.focus-img{
+    width: 721px;
+    height: 316px;
+    border-radius: 39px;
+    margin-top: 34px;
+    margin-right: 18px;
+    
+}
