@@ -219,3 +219,28 @@ p{
 input[type=text]{
     width: 232px;
 }
+footer{
+    width: 1440px;
+    height: 428px;
+    background-color: white;
+    justify-items: center;
+    
+}
+.footer-contend{
+    text-align: center;
+}
+.Logo-sample{
+    font-weight: bold;
+    font-size: 100px;  
+    color: #4E47FF;  
+}
+
+ul li{
+    display: flex;
+    float: left;
+    margin-right: 157px;
+}
+ul li:hover{    
+    color: blue;
+    cursor: pointer;
+}
